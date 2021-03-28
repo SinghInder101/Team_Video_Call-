@@ -67,3 +67,10 @@ const addVideoStream = (video , stream) => {
 
   
 }
+
+let msg = $('input')
+console.log(msg);
+
+$('html').keydown((e) => {
+    if(e.which)
+})
